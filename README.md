@@ -11,13 +11,13 @@
     <a href="https://{your-demo-link.your-domain}">
       Demo
     </a>
-    <!-- <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <span> | </span>
+<!--     <a href="https://{your-url-to-the-solution}"> -->
       Solution
-    </a> -->
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+      Challenge 
     </a>
   </h3>
 </div>
@@ -34,16 +34,15 @@
 
 <!-- OVERVIEW -->
 
-## Overview
-<!-- 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+## Overview 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![Screenshot](https://user-images.githubusercontent.com/66724598/139015521-44e26cae-ecfa-431b-b3bc-5108d2309e82.png)
+<!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :) -->
+- Your wisdom? :) --> 
 
 ### Built With
 
